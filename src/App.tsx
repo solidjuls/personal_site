@@ -4,7 +4,7 @@ function App() {
   return (
     <>
       <p className="read-the-docs">
-        qtsf
+        QTS F
       </p>
     </>
   )
